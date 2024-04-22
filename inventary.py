@@ -11,6 +11,6 @@ for i in l:
     a[i]=[l[i],k]
     c+=k
     n+=k*l[i]
-print('\n\n',pd.DataFrame(a,index=['price','Qty']))
+print('\n\n',pd.DataFrame(a,index=['Price','Qty']))
 print('\ntotal weight= ',c)
 print('total price= ',n)

@@ -14,4 +14,4 @@ elif(choice=='%'):
 elif(choice=='pow'):
     print(f"{a}^{b} = {a**b}")
 else:
-    print("Invalid choice!")
+    print("Invalid Choice!")

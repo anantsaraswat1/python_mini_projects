@@ -21,4 +21,3 @@ elif 80<=per<=90:
     print('grade: A+\nPercentage:',per)
 elif 90<=per<=100:
     print('grade: O\nPercentage:',per) 
-# print('hi')
